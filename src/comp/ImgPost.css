@@ -1,0 +1,37 @@
+.img-post{
+  position: fixed;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.img-post-bg{
+  background-color: rgba(0,0,0,0.800);
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.img-post-content{
+  position: relative;
+  max-width: 85%;
+  background-color: black;
+  margin: auto;
+}
+.img-post-content img{
+  display: block;
+  max-width: 100%;
+  max-height: calc(100vh - 120px);
+  margin-left: auto;
+  margin-right: auto;
+}
+.img-post-content h4{
+  color: white;
+  text-align: center;
+  
+}

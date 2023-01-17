@@ -1,0 +1,25 @@
+/*.App {
+  text-align: center;
+  
+}
+{
+  box-sizing: border-box;
+}
+show-img{
+  display: table;
+  
+}
+.img-item{
+  border: 1px solid gray;
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 160px; 
+  text-align: center;
+  margin: ;
+}
+.img-item h4{
+  margin: 0;
+  
+}
+*/

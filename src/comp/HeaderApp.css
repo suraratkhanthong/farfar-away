@@ -1,0 +1,30 @@
+.Header-app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 40px;
+  
+  border-bottom:1px solid gray;
+  font-size: 29px;
+  font-weight: bold;
+  
+}
+.Header-app p{
+  font-family: Apple Chancery, cursive;
+  color: white;
+}
+.btn-icon{
+  display:block;
+  background-color: white;
+  border-radius:3px;
+  padding: 5px;
+  position: right;
+}
+.icon-bars{
+  color: black;
+  margin-top: -28px;
+  
+  
+}
