@@ -1,6 +1,6 @@
  
  
-  /*const dataContents = [
+  const dataContents = [
   {
     id:1,
     url:"./images/img_7.jpg",
@@ -19,7 +19,7 @@
     title:"Test3",   
     status: 0
   }
-  ]*/
+  ]
   
 //import { useState, useEffect } from "react";
   //let dataContents = []
@@ -44,10 +44,7 @@
   })
   return dataContents;
 }, []);*/
-  //alert(JSON.stringify(dataContents))
   
-  let dataContents = []; 
- 
-  //alert(data)
+  
     export default dataContents;
   

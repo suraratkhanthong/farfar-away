@@ -5,7 +5,7 @@ import HeaderApp from './comp/HeaderApp';
 import dataContents from './data-app/DataContent';
 
 import ImgPost from './comp/ImgPost';
-import {MongoClient} from 'mongodb';
+
 
 function App() {
 
