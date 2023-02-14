@@ -1,4 +1,5 @@
- import './ContentApp.css';    
+ import './ContentApp.css';   
+  
 function ContentApp(props){
   const {dataContent, onClickOpen} = props;
    

@@ -16,7 +16,7 @@
     {
     id:3,
     url:"./images/img_6.jpg",
-    title:"Test3",   
+    title:"Test3ds",   
     status: 0
   }
   ]
